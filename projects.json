@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1773801124598",
+    "title": "Shooting Star",
+    "description": "A modern E-commerce platform for fashion. Featuring a secure login system, dynamic product management, and a seamless shopping experience built with high-performance backend architecture.",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Tailwind CSS"
+    ],
+    "link": ""
+  },
+  {
+    "id": "1773802547306",
+    "title": "Figma Design Implementation",
+    "description": "A high-fidelity front-end project focused on translating complex Figma designs into responsive, pixel-perfect web interfaces. Developed with a focus on modern UI patterns and optimized performance.",
+    "tech_stack": [
+      "React",
+      "Tailwind CSS",
+      "Vercel",
+      "Responsive Design"
+    ],
+    "link": "https://begin-fawn.vercel.app/"
+  },
+  {
+    "id": "1773802617428",
+    "title": "Employee Attendance Dashboard",
+    "description": "A comprehensive management tool designed for tracking employee attendance and performance. Developed with complex API integrations and a custom data model to handle real-time workforce monitoring and reporting.",
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API Integration"
+    ],
+    "link": ""
+  },
+  {
+    "id": "1773802768487",
+    "title": "Brainwave: Next-Gen AI Platform",
+    "description": "A cutting-edge UI/UX implementation of a futuristic AI platform design. Focused on complex animations, seamless transitions, and interactive visual elements to deliver a captivating and immersive user experience.",
+    "tech_stack": [
+      "React",
+      "Tailwind CSS",
+      "Framer Motion (or GSAP/CSS Animations)",
+      "Figma Implementation",
+      "Responsive Design"
+    ],
+    "link": "https://brainwave-sigma-swart.vercel.app/"
+  },
+  {
+    "id": "1773802872765",
+    "title": "Food Wagon: Restaurant \u0026 Delivery UI",
+    "description": "A vibrant and responsive food delivery interface based on a professional Figma design. Features a clean layout, optimized image assets, and a user-centric navigation flow to enhance the digital dining experience.",
+    "tech_stack": [
+      "React",
+      "Tailwind CSS",
+      "Vercel",
+      "UI/UX Implementation"
+    ],
+    "link": "https://food-wegon.vercel.app/"
+  },
+  {
+    "id": "1773802994293",
+    "title": "Google Drive UI: Components Architecture",
+    "description": "A high-fidelity simulation of the Google Drive user interface. Focused on a robust component-based design architecture, complex state management for file sorting, and a clean, familiar user experience.",
+    "tech_stack": [
+      "React",
+      "Tailwind CSS",
+      "Vercel",
+      "State Management"
+    ],
+    "link": "https://my-google-drive.vercel.app/"
+  }
+]
