@@ -97,5 +97,6 @@ func main() {
 	if port == "" {
 		port = "8080"
 	}
+
 	app.Run(":" + port)
 }
